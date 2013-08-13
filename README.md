@@ -27,6 +27,6 @@ the very first , fork this repo to your branch
 $ git clone https://github.com/YOURUSERNAME/fuckmylife.git
 $ cd fuckmylife
 $ vi fucked.md // add new line of fucking life
-$ git commit -a && git push origin master
+$ git commit -a -m 'your fucking desc' && git push origin master
 then send me a PR
 ````

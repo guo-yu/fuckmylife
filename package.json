@@ -1,0 +1,21 @@
+{
+  "name": "fuckmylife",
+  "version": "0.0.0",
+  "description": "feel free to fuck your life here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/fuckmylife.git"
+  },
+  "keywords": [
+    "fml"
+  ],
+  "author": "turing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/fuckmylife/issues"
+  }
+}
